@@ -1,0 +1,17 @@
+{
+    "name": "calculator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "calc.js",
+    "scripts": {
+        "start": "electron .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Gage",
+    "license": "ISC",
+    "dependencies": {
+        "electron-reload": "^1.5.0",
+        "jquery": "^3.6.0",
+        "query": "^0.2.0"
+    }
+}
